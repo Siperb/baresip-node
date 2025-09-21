@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# MaoOS hidden files
+*/.DS_Store
+*.DS_Store
+.DS_Store
+
+deps/

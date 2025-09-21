@@ -1,0 +1,3 @@
+/Users/conraddewet/Dropbox/SIPerb/baresip-node/build/CMakeFiles/baresip_node.dir
+/Users/conraddewet/Dropbox/SIPerb/baresip-node/build/CMakeFiles/edit_cache.dir
+/Users/conraddewet/Dropbox/SIPerb/baresip-node/build/CMakeFiles/rebuild_cache.dir

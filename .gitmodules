@@ -1,0 +1,18 @@
+[submodule "deps/re"]
+	path = deps/re
+	url = https://github.com/baresip/re.git
+[submodule "deps/baresip"]
+	path = deps/baresip
+	url = https://github.com/baresip/baresip.git
+[submodule "deps/opus"]
+	path = deps/opus
+	url = https://github.com/xiph/opus.git
+[submodule "deps/libsrtp"]
+	path = deps/libsrtp
+	url = https://github.com/cisco/libsrtp.git
+[submodule "deps/openssl"]
+	path = deps/openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "deps/rem"]
+	path = deps/rem
+	url = https://github.com/baresip/rem.git
